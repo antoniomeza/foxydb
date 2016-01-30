@@ -1,4 +1,7 @@
 # foxydb
+
+https://foxydb.wordpress.com/
+
 Librería de conexión a Servidores de Bases de Datos desde Visual Fox Pro (VFP)
 FoxyDB
 ¿Que es FoxyDb?
